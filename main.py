@@ -1,5 +1,6 @@
 def print_hi(name):
     print(f'Hello World, from {name}!') #Вывод приветствия
+    print('Glad to see you again!')
 
 
 if __name__ == '__main__':
